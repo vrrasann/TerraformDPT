@@ -10,7 +10,7 @@
 # AWS authentication
 1. IAM Role based authentication
 
-#Bit Bucket Logins
+# Bit Bucket Logins
 1. Credentials Store
 
 Username: dptrealtime
